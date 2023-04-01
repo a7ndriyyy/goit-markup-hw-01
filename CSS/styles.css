@@ -1,0 +1,106 @@
+:root{
+}
+body{
+    background: #FFFFFF;
+    font-family: 'Roboto';
+}
+
+.list{
+    list-style:none ;
+}
+.link{
+    text-decoration: none;
+}
+
+.top-line{
+    box-sizing: border-box;
+    background: #FFFFFF;
+    border-bottom: 1px solid #E7E9FC;
+}
+
+.logo{
+font-family: 'Raleway';
+font-style: normal;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #4D5AE5;
+}
+.logo-item{
+font-family: 'Raleway';
+font-style: normal;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #2E2F42;
+}
+.nav-link{
+font-family: 'Roboto';
+font-style: normal;
+letter-spacing: 0.02em;
+color: #2E2F42;
+}
+.list-link{
+font-family: 'Roboto';
+font-style: normal;
+letter-spacing: 0.02em;
+color: #434455;
+
+}
+
+.hero-header{
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+
+}
+
+.hero-button{
+background: #4D5AE5;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+}
+
+.hero{
+    background: #2E2F42;
+}
+
+.text{
+font-family: 'Roboto';
+font-style: normal;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+
+}
+.team-text{
+ font-family: 'Roboto';
+font-style: normal;
+letter-spacing: 0.02em;
+text-transform: capitalize;
+color: #2E2F42;
+}
+
+.goit-team{   
+background: #FFFFFF;
+box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08), 0px 1px 1px rgba(46, 47, 66, 0.16), 0px 2px 1px rgba(46, 47, 66, 0.08);
+border-radius: 0px 0px 4px 4px;
+}
+
+.section{
+    background: #F4F4FD;
+}
+
+.footer{
+    background: #2E2F42;
+}
+.logo-item-studio{
+    font-family: 'Raleway';
+    font-style: normal;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #F4F4FD;
+
+}
+
